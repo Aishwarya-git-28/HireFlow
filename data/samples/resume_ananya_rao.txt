@@ -1,0 +1,29 @@
+ANANYA RAO
+Machine Learning Engineer | Bengaluru, India
+ananya.rao@example.com | github.com/ananyarao-demo | linkedin.com/in/ananyarao-demo
+
+SUMMARY
+ML engineer with 5 years of experience building document-processing and NLP systems in production.
+
+EXPERIENCE
+Senior ML Engineer, Infosys | Apr 2023 to Present
+- Built a PDF-to-structured-data pipeline (pdfplumber, Tesseract, spaCy) processing 40,000 invoices per month at 96% field accuracy.
+- Designed a retrieval-augmented generation (RAG) assistant over 200K internal documents using FAISS and an LLM API; cut analyst search time by 60%.
+- Deployed models as FastAPI services on Google Cloud Run with CI/CD; on-call for two production services.
+
+ML Engineer, Flipkart | Aug 2021 to Mar 2023
+- Trained product-categorization models in Python (scikit-learn, PyTorch); improved F1 from 0.81 to 0.88.
+- Wrote SQL and Airflow pipelines feeding a feature store; reduced nightly batch time by 35%.
+
+PROJECTS
+DocParse-lite (open source): Python library for layout-aware PDF text extraction; 310 GitHub stars. github.com/ananyarao-demo/docparse-lite
+Contributor to scikit-learn: fixed 3 bugs in text feature extraction (2024).
+
+EDUCATION
+B.Tech, Computer Science, RV College of Engineering, 2021
+
+CERTIFICATIONS
+Google Professional Machine Learning Engineer (2024)
+
+SKILLS
+Python, SQL, PyTorch, scikit-learn, spaCy, FAISS, FastAPI, Airflow, Google Cloud, Docker, Streamlit

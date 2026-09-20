@@ -1,0 +1,23 @@
+INTERVIEW NOTES: Marcus Chen | ML Engineer, Document Intelligence
+Interviewer: Sam K. | Round 1 (technical, 45 minutes)
+
+Python and SQL
+Marcus writes Python daily. He described a Zomato pipeline that joins order, rider and weather tables in SQL, then trains a gradient-boosted delivery-time model. He explained window functions and indexing choices clearly. He wrote a correct SQL query for a rolling 7-day average on the whiteboard without hints.
+
+Production ML
+Said he owns the delivery-time model end to end: weekly retraining on Databricks and a simple population stability check for drift. He could not say how many requests per second the service handles. Deployment is done by the platform team, not by him.
+
+NLP and LLM work
+His only NLP experience is the personal Resume Analyzer project (TF-IDF, cosine similarity) and a BERT sentiment demo. No production LLM or RAG work. Asked how he would design retrieval over 100K documents, he said he would probably use embeddings and a vector database, but gave no detail on chunking or evaluation.
+
+PDF and document extraction
+Not discussed. We ran out of time.
+
+Cloud
+Uses Databricks on the company's cloud account. He was unsure which cloud provider runs underneath. He has never configured cloud infrastructure himself.
+
+Employment gap, Sep 2021 to Feb 2023
+Explained that he did a full-time data science bootcamp and freelance analytics projects. Offered a portfolio link; not verified yet.
+
+Overall impression
+Strong SQL and analytics fundamentals, honest about his limits. He would need ramp-up on LLM applications and document processing.

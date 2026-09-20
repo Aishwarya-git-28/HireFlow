@@ -1,0 +1,30 @@
+MARCUS CHEN
+Data Scientist | Pune, India
+marcus.chen@example.com | linkedin.com/in/marcuschen-demo
+
+PROFILE
+Data scientist with experience in analytics and machine learning across consulting and consumer tech.
+
+EXPERIENCE
+Data Scientist, Zomato | Mar 2023 to Present
+- Worked on machine learning models for delivery-time prediction.
+- Built dashboards in Tableau and Python for operations teams.
+- Collaborated with engineering to ship models to production.
+
+Analyst, Deloitte | Jun 2019 to Aug 2021
+- Built SQL reports and Python scripts for banking clients.
+- Automated data cleaning that saved the team about 10 hours a week.
+
+PROJECTS
+Resume Analyzer: NLP app that ranks resumes against job descriptions using TF-IDF and cosine similarity (Streamlit).
+Sentiment Dashboard: Twitter sentiment analysis with BERT.
+
+EDUCATION
+M.Sc. Statistics, Savitribai Phule Pune University, 2019
+
+CERTIFICATIONS
+Databricks Certified Data Engineer Associate (2024)
+DeepLearning.AI Machine Learning Specialization (2022)
+
+SKILLS
+Python, SQL, Tableau, pandas, scikit-learn, BERT, Streamlit, Spark

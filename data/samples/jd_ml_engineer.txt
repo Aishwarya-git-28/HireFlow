@@ -1,0 +1,20 @@
+Machine Learning Engineer, Document Intelligence
+Northwind Health Analytics | Remote (India) | Full-time
+
+About the role
+We build a platform that turns medical and financial documents into structured, searchable data. You will design and ship the ML services behind it.
+
+Must have
+- 3+ years of professional Python experience.
+- Hands-on experience building NLP or document-processing pipelines in production.
+- Experience with LLM applications, including retrieval-augmented generation (RAG) or prompt-based extraction.
+- Experience extracting text and structure from PDFs or scanned documents.
+- Strong SQL skills.
+- Experience deploying and operating ML services on a cloud platform.
+
+Nice to have
+- Open-source contributions.
+- Experience with FastAPI and Streamlit.
+- MLOps tooling (Airflow, MLflow, CI/CD).
+- Healthcare or finance domain experience.
+- A cloud or ML certification.
